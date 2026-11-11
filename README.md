@@ -1,6 +1,6 @@
 # LEAD: Learning from Evolutionary directions for convergence Acceleration and Dimensionality reduction
 
-![proposed_algorithm.png](proposed_algorithm.png)
+![proposed_algorithm.png](proposed_algorithm.jpg)
 
 Paper: [Dynamic dimensionality reduction and efficient convergence acceleration for evolutionary large-scale multiobjective optimization (ESWA 2026)](https://doi.org/10.1016/j.eswa.2026.134982)
 
